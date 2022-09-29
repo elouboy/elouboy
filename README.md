@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ***Golang***
 - 💬 Ask me about ***Flutter, Firebase, AWS, MongoDb, CI/CD, System Design***
-- 📫 How to reach me: [elhadj.ndiaye@gmail.com](elhadj.ndiaye@gmail.com)
+- 📫 How to reach me: [elhadj.ndiaye@outlook.fr](elhadj.ndiaye@outlook.fr)
 
 ### Connect with me:
 
