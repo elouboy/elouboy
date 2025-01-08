@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Elhadj Ndiaye
 
-### Flutter developer and FullStack developer with more than 7 years of experience in developing applications for multiple domains including entertainment, SAAS, Fintech, and E-commerce.
+### Flutter developer and FullStack developer with more than 9 years of experience in developing applications for multiple domains including entertainment, SAAS, Fintech, and E-commerce.
 
 - 🌱 I’m currently learning ***Rust***
 - 💬 Ask me about ***Flutter, Firebase, AWS, MongoDb, CI/CD, System Design, Golang***
